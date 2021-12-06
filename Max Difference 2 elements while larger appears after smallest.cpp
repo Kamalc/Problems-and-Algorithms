@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Max Difference 2 elements while longer appears after smallest
+// Name        : Max Difference 2 elements while larger appears after smallest
 // Author      : Kamal Saad
 // Version     :
 // Copyright   : MIT copyright
