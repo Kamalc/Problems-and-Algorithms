@@ -25,7 +25,7 @@ int max_value_sub_array_prefix_sol(const vector<int>& nums) { // O(n)  Prefix Su
 	return res;
 }
 
-int max_value_sub_array_slide_window(const vector<int>& nums) { // O(n)  Variable size Sliding Window Based Approach
+int max_value_sub_array_slide_window(const vector<int>& nums) { // O(n)  Variable size Sliding Window Based Approach (Kadane's Algorithm [DP])
 
 	int res = INT_MIN , max_sum_window = 0;
 
